@@ -1,0 +1,2 @@
+# CAD model of the printer 
+Not all parts in the model are created by me, some of them come from GrabCAD and Printables and are created by their respective authors. List of these parts and their authors will be added here. The CAD model is not finished yet, some organization and cleanup is needed, but it is already usable for reference and measurements. The CAD model is in Fusion 360 format, but can be exported to other formats as well and should work in Inventor too without issues.
